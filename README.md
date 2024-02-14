@@ -12,15 +12,18 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
   <table>
     <thead>
       <tr>
-        <th>1 - INICIANTE  | BEGINNER</th>
+        <th align="center">1 - INICIANTE  | BEGINNER</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th>1000 - Hello World!</th>
+        <td align="left">1000 - Hello World!</th>
       </tr>
       <tr>
-        <th>1001 - Extremely Basic</th>
+        <td align="left">1001 - Extremely Basic</th>
+      </tr>
+      <tr>
+        <td align="left">1002 - Area of a Circle</th>
       </tr>
     </tbody>
   </table>
