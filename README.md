@@ -17,7 +17,7 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
     </thead>
     <tbody>
       <tr>
-        <td align="left">1000 - Hello World!</th>
+        <td align="left"><a src="google.com">1000 - Hello World!</a></th>
       </tr>
       <tr>
         <td align="left">1001 - Extremely Basic</th>
