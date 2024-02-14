@@ -40,7 +40,7 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
   
   <summary><strong>2 - AD-HOC</strong></summary>
   
-  <div align="center">
+  <div>
     <table>
       <thead>
         <tr>
@@ -61,7 +61,7 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
   
   <summary><strong>3 - STRINGS</strong></summary>
   
-  <div align="center">
+  <div>
     <table>
       <thead>
         <tr>
@@ -82,7 +82,7 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
   
   <summary><strong>4 - ESTRUTURAS E BIBLIOTECAS  | DATA STRUCTURES AND LIBRARIES</strong></summary>
   
-  <div align="center">
+  <div>
     <table>
       <thead>
         <tr>
