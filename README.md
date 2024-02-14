@@ -13,7 +13,7 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
   
   <summary><strong>1 - INICIANTE  | BEGINNER</strong></summary>
   
-  <div align="center">
+  <div>
     <table>
       <thead>
         <tr>
