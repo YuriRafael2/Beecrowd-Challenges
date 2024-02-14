@@ -9,24 +9,26 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
 
 <details>
   <summary><strong> 1 - INICIANTE  | BEGINNER</strong></summary>
-  <table>
-    <thead>
-      <tr>
-        <th align="center">1 - INICIANTE  | BEGINNER</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="left"><a href="google.com">1000 - Hello World!</a></th>
-      </tr>
-      <tr>
-        <td align="left">1001 - Extremely Basic</th>
-      </tr>
-      <tr>
-        <td align="left">1002 - Area of a Circle</th>
-      </tr>
-    </tbody>
-  </table>
+  <div align="center">
+    <table>
+      <thead>
+        <tr>
+          <th align="center">1 - INICIANTE  | BEGINNER</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="left"><a href="google.com">1000 - Hello World!</a></th>
+        </tr>
+        <tr>
+          <td align="left">1001 - Extremely Basic</th>
+        </tr>
+        <tr>
+          <td align="left">1002 - Area of a Circle</th>
+        </tr>
+      </tbody>
+    </table>
+  </div>  
 </details>
 
 <details>
