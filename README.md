@@ -1,7 +1,7 @@
 # Beecrowd Challenges
 
 <p align="center">
-<a target="_blank" href="https://judge.beecrowd.com/en/profile/684623">
+<a href="https://judge.beecrowd.com/en/profile/684623" target="_blank">
 <img  width="240" src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036">
 </p>
 
