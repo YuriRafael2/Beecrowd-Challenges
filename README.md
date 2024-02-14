@@ -19,6 +19,9 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
       <tr>
         <th>1000 - Hello World!</th>
       </tr>
+      <tr>
+        <th>1001 - Extremely Basic</th>
+      </tr>
     </tbody>
   </table>
 </details>
