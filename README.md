@@ -6,3 +6,39 @@
 </p>
 
 My solutions for beecrowd challenges, trying to solve all of them from scratch, without help of other C libraries (e.g. string.h library, since people uses a lot of the string.h functions in these challenges), so I'll try my best to build my own functions to think how they were made and learn with that.
+
+<details>
+  <summary><strong> 1 - INICIANTE  | BEGINNER</strong></summary>
+</details>
+
+<details>
+  <summary><strong> 2 - AD-HOC</strong></summary>
+</details>
+
+<details>
+  <summary><strong> 3 - STRINGS</strong></summary>
+</details>
+
+<details>
+  <summary><strong> 4 - ESTRUTURAS E BIBLIOTECAS  | DATA STRUCTURES AND LIBRARIES</strong></summary>
+</details>
+
+<details>
+  <summary><strong> 5 - MATEMÁTICA | MATHEMATICS</strong></summary>
+</details>
+
+<details>
+  <summary><strong> 6 - PARADIGMAS | PARADIGMS</strong></summary>
+</details>
+
+<details>
+  <summary><strong> 7 - GRAFOS | GRAPHS</strong></summary>
+</details>
+
+<details>
+  <summary><strong> 8 - GEOMETRIA COMPUTACIONAL | COMPUTATIONAL GEOMETRY</strong></summary>
+</details>
+
+<details>
+  <summary><strong> 9 - SQL</strong></summary>
+</details>
