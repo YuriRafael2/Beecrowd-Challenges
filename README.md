@@ -9,6 +9,18 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
 
 <details>
   <summary><strong> 1 - INICIANTE  | BEGINNER</strong></summary>
+  <table>
+    <thead>
+      <tr>
+        <th>1 - INICIANTE  | BEGINNER</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>1000 - Hello World!</th>
+      </tr>
+    </tbody>
+  </table>
 </details>
 
 <details>
