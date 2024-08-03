@@ -21,7 +21,7 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
       </thead>
       <tbody>
         <tr>
-          <td align="left"><a href="">1000 - Hello World!</a></th>
+          <td align="left"><a href="/1000 - Hello World!.c">1000 - Hello World!</a></th>
           <td align="left"><a href="">1000 - Hello World!</a></th>
         </tr>
         <tr>
