@@ -32,6 +32,86 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
           <td align="left"><a href="">1002 - Area of a Circle</th>
           <td align="left"><a href="">1002 - Area of a Circle</th>
         </tr>
+        <tr>
+          <td align="left"><a href="">1003 - Soma Simples</th>
+          <td align="left"><a href="">1003 - Soma Simples</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1004 - Produto Simples</th>
+          <td align="left"><a href="">1004 - Produto Simples</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1005 - Média 1</th>
+          <td align="left"><a href="">1005 - Média 1</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1006 - Média 2</th>
+          <td align="left"><a href="">1006 - Média 2</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1007 - Diferença</th>
+          <td align="left"><a href="">1007 - Diferença</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1008 - Salário</th>
+          <td align="left"><a href="">1008 - Salário</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1009 - Salário com Bônus</th>
+          <td align="left"><a href="">1009 - Salário com Bônus</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1010 - Cálculo Simples</th>
+          <td align="left"><a href="">1010 - Cálculo Simples</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1011 - Esfera</th>
+          <td align="left"><a href="">1011 - Esfera</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1012 - Área</th>
+          <td align="left"><a href="">1012 - Área</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1013 - O Maior</th>
+          <td align="left"><a href="">1013 - O Maior</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1014 - Consumo</th>
+          <td align="left"><a href="">1014 - Consumo</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1015 - Distância Entre Dois Pontos</th>
+          <td align="left"><a href="">1015 - Distância Entre Dois Pontos</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1017 - Gasto de Combustível</th>
+          <td align="left"><a href="">1017 - Gasto de Combustível</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1018 - Cédulas</th>
+          <td align="left"><a href="">1018 - Cédulas</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1019 - Conversão de Tempo</th>
+          <td align="left"><a href="">1019 - Conversão de Tempo</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1020 - Idade em Dias</th>
+          <td align="left"><a href="">1020 - Idade em Dias</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1021 - Notas e Moedas</th>
+          <td align="left"><a href="">1021 - Notas e Moedas</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1035 - Teste de Seleção 1</th>
+          <td align="left"><a href="">1035 - Teste de Seleção 1</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1036 - Fórmula de Bhaskara</th>
+          <td align="left"><a href="">1036 - Fórmula de Bhaskara</th>
+        </tr>
       </tbody>
     </table>
   </div>  
