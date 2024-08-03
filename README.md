@@ -16,21 +16,6 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
       <thead>
         <tr>
           <th align="center"><img width="100" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td align="left"><a href="">1000 - Hello World!</a></th>
-        </tr>
-        <tr>
-          <td align="left"><a href="">1001 - Extremely Basic</th>
-        </tr>
-        <tr>
-          <td align="left"><a href="">1002 - Area of a Circle</th>
-        </tr>
-      </tbody>
-      <thead>
-        <tr>
           <th align="center"><img width="100" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></th>
         </tr>
       </thead>
@@ -47,7 +32,22 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
       </tbody>
     </table>
     <table>
-
+      <thead>
+        <tr>
+          <th align="center"><img width="100" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="left"><a href="">1000 - Hello World!</a></th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1001 - Extremely Basic</th>
+        </tr>
+        <tr>
+          <td align="left"><a href="">1002 - Area of a Circle</th>
+        </tr>
+      </tbody>
     </table>
   </div>  
 </details>
