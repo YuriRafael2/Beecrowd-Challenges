@@ -15,7 +15,7 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
     <table>
       <thead>
         <tr>
-          <th align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">1 - INICIANTE  | BEGINNER</th>
+          <th align="center"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></th>
         </tr>
         <tr>
           <th align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">1 - INICIANTE  | BEGINNER</th>
