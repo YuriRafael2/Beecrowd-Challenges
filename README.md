@@ -30,14 +30,11 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
         </tr>
       </tbody>
     </table>
-  </div>  
-
-  <div>
-  <table>
-    <thead>
-      <tr>
-        <th align="center"><img width="100" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></th>
-      </tr>
+    <table>
+      <thead>
+        <tr>
+          <th align="center"><img width="100" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></th>
+        </tr>
       </thead>
       <tbody>
         <tr>
@@ -51,8 +48,7 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
         </tr>
       </tbody>
     </table>
-  </div>
-  
+  </div>  
 </details>
 
 <details>
