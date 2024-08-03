@@ -20,17 +20,15 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
       </thead>
       <tbody>
         <tr>
-          <td align="left"><a href="google.com">1000 - Hello World!</a></th>
+          <td align="left"><a href="">1000 - Hello World!</a></th>
         </tr>
         <tr>
-          <td align="left">1001 - Extremely Basic</th>
+          <td align="left"><a href="">1001 - Extremely Basic</th>
         </tr>
         <tr>
-          <td align="left">1002 - Area of a Circle</th>
+          <td align="left"><a href="">1002 - Area of a Circle</th>
         </tr>
       </tbody>
-    </table>
-    <table>
       <thead>
         <tr>
           <th align="center"><img width="100" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></th>
@@ -38,15 +36,18 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
       </thead>
       <tbody>
         <tr>
-          <td align="left"><a href="google.com">1000 - Hello World!</a></th>
+          <td align="left"><a href="">1000 - Hello World!</a></th>
         </tr>
         <tr>
-          <td align="left">1001 - Extremely Basic</th>
+          <td align="left"><a href="">1001 - Extremely Basic</th>
         </tr>
         <tr>
-          <td align="left">1002 - Area of a Circle</th>
+          <td align="left"><a href="">1002 - Area of a Circle</th>
         </tr>
       </tbody>
+    </table>
+    <table>
+
     </table>
   </div>  
 </details>
