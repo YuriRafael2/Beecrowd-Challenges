@@ -13,6 +13,8 @@ public class Main {
         double salario_total = vendas * 15.0 / 100.0 + salario_fixo;
         
         System.out.printf("TOTAL = R$ %.2f\n", salario_total);
+
+        input.close();
  
     }
  

@@ -12,6 +12,8 @@ public class Main {
         int PROD = x * y;
         
         System.out.printf("PROD = %d\n", PROD);
+
+        input.close();
  
     }
  

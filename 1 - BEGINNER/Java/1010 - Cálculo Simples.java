@@ -16,7 +16,9 @@ public class Main {
         double valor_total = peca1_quantidade * peca1_valor + peca2_quantidade * peca2_valor;
         
         System.out.printf("VALOR A PAGAR: R$ %.2f\n", valor_total);
- 
+        
+        input.close();
+
     }
  
 }

@@ -14,6 +14,8 @@ public class Main {
         
         System.out.printf("NUMBER = %d\n", numero_funcionario);
         System.out.printf("SALARY = U$ %.2f\n", salario_total);
+
+        input.close();
         
     }
  

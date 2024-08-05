@@ -13,6 +13,9 @@ public class Main {
         int X = A + B;
         
         System.out.printf("X = %d\n", X);
+
+        input.close();
+        
     }
  
 }

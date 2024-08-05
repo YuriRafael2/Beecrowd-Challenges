@@ -12,7 +12,9 @@ public class Main {
         double volume = PI * R * R * R * 4/3;
         
         System.out.printf("VOLUME = %.3f\n", volume);
- 
+        
+        input.close();
+
     }
  
 }

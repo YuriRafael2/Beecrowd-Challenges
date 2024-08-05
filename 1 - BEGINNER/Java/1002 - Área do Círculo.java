@@ -13,6 +13,8 @@ public class Main {
         double area = PI * raio * raio;
         
         System.out.printf("A=%.4f\n", area);
+
+        input.close();
  
     }
  

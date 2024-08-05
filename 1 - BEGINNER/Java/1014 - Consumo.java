@@ -7,14 +7,14 @@ public class Main {
  
         Scanner input = new Scanner(System.in);
         
-        double A = input.nextDouble();
-        double B = input.nextDouble();
-        double media = (A * 3.5 + B * 7.5) / 11.0;
+        int X = input.nextInt();
+        double Y = input.nextDouble();
+        double consumo_medio = X / Y;
         
-        System.out.printf("MEDIA = %.5f\n", media);
-        
-        input.close();
+        System.out.printf("%.3f km/l\n", consumo_medio);
 
+        input.close();
+ 
     }
  
 }
