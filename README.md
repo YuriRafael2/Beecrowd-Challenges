@@ -22,15 +22,15 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
       <tbody>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1000 - Hello World!.c">1000 - Hello World!</a></th>
-          <td align="left"><a href="">1000 - Hello World!</a></th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1000 - Hello World!.cpp">1000 - Hello World!</a></th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1001 - Extremamente Básico.c">1001 - Extremely Basic</th>
-          <td align="left"><a href="">1001 - Extremely Basic</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1001 - Extremamente Básico.cpp">1001 - Extremely Basic</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1002 - Área do Círculo.c">1002 - Area of a Circle</th>
-          <td align="left"><a href="">1002 - Area of a Circle</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1002 - Área do Círculo.cpp">1002 - Area of a Circle</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1003 - Soma Simples.c">1003 - Soma Simples</th>
