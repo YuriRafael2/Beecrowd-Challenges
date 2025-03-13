@@ -16,13 +16,13 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
       <thead>
         <tr>
           <th align="center"><img width="100" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></th>
-          <th align="center"><img width="100" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></th>
+          <th align="center"><img width="100" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1000 - Hello World!.c">1000 - Hello World!</a></th>
-          <td align="left"><a href="/1 - BEGINNER/Java/1000 - Hello World!.java">1000 - Hello World!</a></th>
+          <td align="left"><a href="\1 - BEGINNER\C\1001 - Extremamente Básico.c">1000 - Hello World!</a></th>
         </tr>
         <tr>
           <td align="left"><a href="">1001 - Extremely Basic</th>
