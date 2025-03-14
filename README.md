@@ -34,35 +34,35 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1003 - Soma Simples.c">1003 - Soma Simples</th>
-          <td align="left"><a href="">1003 - Soma Simples</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1003 - Soma Simples.cpp">1003 - Soma Simples</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1004 - Produto Simples.c">1004 - Produto Simples</th>
-          <td align="left"><a href="">1004 - Produto Simples</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1004 - Produto Simples.cpp">1004 - Produto Simples</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1005 - Média 1.c">1005 - Média 1</th>
-          <td align="left"><a href="">1005 - Média 1</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1005 - Média 1.cpp">1005 - Média 1</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1006 - Média 2.c">1006 - Média 2</th>
-          <td align="left"><a href="">1006 - Média 2</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1006 - Média 2.cpp">1006 - Média 2</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1007 - Diferença.c">1007 - Diferença</th>
-          <td align="left"><a href="">1007 - Diferença</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1007 - Diferença.cpp">1007 - Diferença</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1008 - Salário.c">1008 - Salário</th>
-          <td align="left"><a href="">1008 - Salário</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1008 - Salário.cpp">1008 - Salário</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1009 - Salário com Bônus.c">1009 - Salário com Bônus</th>
-          <td align="left"><a href="">1009 - Salário com Bônus</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1009 - Salário com Bônus.cpp">1009 - Salário com Bônus</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1010 - Cálculo Simples.c">1010 - Cálculo Simples</th>
-          <td align="left"><a href="">1010 - Cálculo Simples</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1010 - Cálculo Simples.cpp">1010 - Cálculo Simples</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1011 - Esfera.c">1011 - Esfera</th>
