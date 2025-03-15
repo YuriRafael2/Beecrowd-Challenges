@@ -66,55 +66,55 @@ My solutions for beecrowd challenges, trying to solve all of them from scratch, 
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1011 - Esfera.c">1011 - Esfera</th>
-          <td align="left"><a href="">1011 - Esfera</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1011 - Esfera.cpp">1011 - Esfera</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1012 - Área.c">1012 - Área</th>
-          <td align="left"><a href="">1012 - Área</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1012 - Área.cpp">1012 - Área</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1013 - O Maior.c">1013 - O Maior</th>
-          <td align="left"><a href="">1013 - O Maior</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1013 - O Maior.cpp">1013 - O Maior</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1014 - Consumo.c">1014 - Consumo</th>
-          <td align="left"><a href="">1014 - Consumo</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1014 - Consumo.cpp">1014 - Consumo</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1015 - Distância Entre Dois Pontos.c">1015 - Distância Entre Dois Pontos</th>
-          <td align="left"><a href="">1015 - Distância Entre Dois Pontos</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1015 - Distância Entre Dois Pontos.cpp">1015 - Distância Entre Dois Pontos</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1016 - Distância.c">1016 - Distância</th>
-          <td align="left"><a href="">1016 - Distância</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1016 - Distância.cpp">1016 - Distância</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1017 - Gasto de Combustível.c">1017 - Gasto de Combustível</th>
-          <td align="left"><a href="">1017 - Gasto de Combustível</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1017 - Gasto de Combustível.cpp">1017 - Gasto de Combustível</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1018 - Cédulas.c">1018 - Cédulas</th>
-          <td align="left"><a href="">1018 - Cédulas</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1018 - Cédulas.cpp">1018 - Cédulas</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1019 - Conversão de Tempo.c">1019 - Conversão de Tempo</th>
-          <td align="left"><a href="">1019 - Conversão de Tempo</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1019 - Conversão de Tempo.cpp">1019 - Conversão de Tempo</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1020 - Idade em Dias.c">1020 - Idade em Dias</th>
-          <td align="left"><a href="">1020 - Idade em Dias</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1020 - Idade em Dias.cpp">1020 - Idade em Dias</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1021 - Notas e Moedas.c">1021 - Notas e Moedas</th>
-          <td align="left"><a href="">1021 - Notas e Moedas</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1021 - Notas e Moedas.cpp">1021 - Notas e Moedas</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1035 - Teste de Seleção 1.c">1035 - Teste de Seleção 1</th>
-          <td align="left"><a href="">1035 - Teste de Seleção 1</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1035 - Teste de Seleção 1.cpp">1035 - Teste de Seleção 1</th>
         </tr>
         <tr>
           <td align="left"><a href="/1 - BEGINNER/C/1036 - Fórmula de Bhaskara.c">1036 - Fórmula de Bhaskara</th>
-          <td align="left"><a href="">1036 - Fórmula de Bhaskara</th>
+          <td align="left"><a href="/1 - BEGINNER/C++/1036 - Fórmula de Bhaskara.cpp">1036 - Fórmula de Bhaskara</th>
         </tr>
       </tbody>
     </table>
