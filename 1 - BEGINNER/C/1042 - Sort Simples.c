@@ -44,7 +44,6 @@ int main() {
     return 0;
 }
 
-
 /*E também pode ser feita usando uma função com algorítmo bubble sort para ordenar o vetor e imprimi-lo*/
 
 #include <stdio.h>
